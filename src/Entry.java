@@ -1,7 +1,7 @@
 import Library.Book.Book;
 import Library.Book.ReferenceBook;
-import Library.Member.Member;
-import Staff.Liberian.Librarian;
+import Library.Member;
+import stuff.Librarian.Librarian;
 
 import java.util.ArrayList;
 import java.util.InputMismatchException;

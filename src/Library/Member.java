@@ -1,4 +1,4 @@
-package Library.Member;
+package Library;
 
 /**
  * Member class to be completed by students (implements requirements).

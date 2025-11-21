@@ -1,4 +1,4 @@
-package Staff.Liberian;
+package stuff.Librarian;
 
 /**
  * Librarian module with constructor chaining and display method.
